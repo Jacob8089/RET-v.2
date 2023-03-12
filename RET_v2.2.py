@@ -777,16 +777,16 @@ lst3=('Calibri (Body)',15)
 l3.config(font=lst3)
 l3.place(x=50,y=110)
 
-l4=Label(w,text='V 2.2',fg='white',bg=a)
+l4=Label(w,text='V 2.2 | Final Version',fg='white',bg=a)
 lst4=('Calibri (Body)',10)
 l4.config(font=lst4)
 l4.place(x=50,y=150)
 
   
-l4=Label(w,text=' Programmed by Jacob Thomas | HIKVISION INDIA',fg='white',bg=a)
-lst4=('Calibri (Body)',4)
-l4.config(font=lst4)
-l4.place(x=300,y=20)
+# l4=Label(w,text=' Programmed by Jacob Thomas | HIKVISION INDIA',fg='white',bg=a)
+# lst4=('Calibri (Body)',4)
+# l4.config(font=lst4)
+# l4.place(x=300,y=20)
 
 w.mainloop()
 
