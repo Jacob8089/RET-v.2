@@ -753,10 +753,10 @@ l4.config(font=lst4)
 l4.place(x=50,y=150)
 
   
-l4=Label(w,text=' Programmed by Jacob Thomas | HIKVISION INDIA',fg='white',bg=a)
-lst4=('Calibri (Body)',4)
-l4.config(font=lst4)
-l4.place(x=300,y=20)
+# l4=Label(w,text=' Programmed by Jacob Thomas | HIKVISION INDIA',fg='white',bg=a)
+# lst4=('Calibri (Body)',4)
+# l4.config(font=lst4)
+# l4.place(x=300,y=20)
 
 w.mainloop()
 
